@@ -5,4 +5,5 @@ export default defineNuxtConfig({
   app: {
     baseURL: "/nuxt-anim/"
   },
+  ssr: false
 })
